@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+streamlit-extras
+replicate
+python-dotenv
+tmdb3
+tmdbsimple
